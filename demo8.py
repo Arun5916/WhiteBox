@@ -14,7 +14,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyDub_cYgT6yohHSu1Q2SsUZQ8OJf39v-qg"
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 gemini_model = genai.GenerativeModel('gemini-2.5-flash')
 
-API_KEY = "ab68f64ad8695e529c8df9034fdd9b71"
+API_KEY = "INSERT API KEY HERE"
 
 # -------------------------------------------------------------
 # GLOBAL CSS STYLE (Cyberpunk Netflix Theme)
