@@ -1,0 +1,51 @@
+event_id,event_type,location,affected_port,status
+EVT-001,Typhoon,Osaka Region,Port of Kobe,CLOSED
+EVT-002,Normal Operations,Los Angeles,Port of LA,OPEN
+EVT-003,Port Congestion,Singapore,Port of Singapore,DELAYED
+EVT-004,Labor Strike,Hamburg Region,Port of Hamburg,CLOSED
+EVT-005,Customs Delay,New York Area,Port of NY/NJ,DELAYED
+EVT-006,Normal Operations,Dubai,Jebel Ali Port,OPEN
+EVT-007,Equipment Failure,Shanghai Region,Port of Shanghai,DELAYED
+EVT-008,Canal Blockage,Egypt,Suez Canal,CRITICAL
+EVT-009,Normal Operations,Rotterdam,Port of Rotterdam,OPEN
+EVT-010,Hurricane,Florida Coast,Port of Miami,CLOSED
+EVT-011,System Outage,Antwerp Region,Port of Antwerp,DELAYED
+EVT-012,Normal Operations,Shenzhen,Port of Shenzhen,OPEN
+EVT-013,Piracy Threat,Gulf of Aden,Transit Route,CRITICAL
+EVT-014,Port Congestion,Busan,Port of Busan,DELAYED
+EVT-015,Normal Operations,Bremerhaven,Port of Bremerhaven,OPEN
+EVT-016,Vessel Grounding,Panama,Panama Canal,CRITICAL
+EVT-017,Labor Strike,Vancouver,Port of Vancouver,CLOSED
+EVT-018,Normal Operations,Tokyo,Port of Tokyo,OPEN
+EVT-019,Customs Delay,Felixstowe,Port of Felixstowe,DELAYED
+EVT-020,Severe Fog,Qingdao,Port of Qingdao,DELAYED
+EVT-021,Normal Operations,Klang,Port Klang,OPEN
+EVT-022,Equipment Failure,Guangzhou,Port of Guangzhou,DELAYED
+EVT-023,Normal Operations,Tanjung Pelepas,Port of Tanjung Pelepas,OPEN
+EVT-024,Crane Collapse,Kaohsiung,Port of Kaohsiung,CLOSED
+EVT-025,Normal Operations,Long Beach,Port of Long Beach,OPEN
+EVT-026,Port Congestion,Ningbo,Port of Ningbo-Zhoushan,DELAYED
+EVT-027,Labor Dispute,Sydney,Port Botany,DELAYED
+EVT-028,Normal Operations,Colombo,Port of Colombo,OPEN
+EVT-029,Typhoon,Hong Kong,Port of Hong Kong,CLOSED
+EVT-030,Normal Operations,Nhava Sheva,Jawaharlal Nehru Port,OPEN
+EVT-031,IT Cyberattack,Seattle,Port of Seattle,CRITICAL
+EVT-032,Normal Operations,Savannah,Port of Savannah,OPEN
+EVT-033,Dredging Issues,Houston,Port of Houston,DELAYED
+EVT-034,Normal Operations,Valencia,Port of Valencia,OPEN
+EVT-035,Flash Floods,Durban,Port of Durban,CLOSED
+EVT-036,Normal Operations,Santos,Port of Santos,OPEN
+EVT-037,Customs Delay,Manila,Port of Manila,DELAYED
+EVT-038,Normal Operations,Ho Chi Minh City,Cat Lai Port,OPEN
+EVT-039,Power Outage,Genoa,Port of Genoa,DELAYED
+EVT-040,Normal Operations,Yokohama,Port of Yokohama,OPEN
+EVT-041,Rail Strike,Halifax,Port of Halifax,DELAYED
+EVT-042,Normal Operations,Montreal,Port of Montreal,OPEN
+EVT-043,Hazardous Spill,Le Havre,Port of Le Havre,CLOSED
+EVT-044,Normal Operations,Algeciras,Port of Algeciras,OPEN
+EVT-045,Vessel Collision,Istanbul,Ambarli Port,CRITICAL
+EVT-046,Normal Operations,Mundra,Mundra Port,OPEN
+EVT-047,Port Congestion,Oakland,Port of Oakland,DELAYED
+EVT-048,Normal Operations,Charleston,Port of Charleston,OPEN
+EVT-049,Tsunami Warning,Callao,Port of Callao,CLOSED
+EVT-050,Normal Operations,Salalah,Port of Salalah,OPEN

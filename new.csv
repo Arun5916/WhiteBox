@@ -1,0 +1,11 @@
+event_id,region,affected_port,event_type,severity,delay_days,extra_cost_usd,risk_level,impact_description,date
+1,Middle East,Strait of Hormuz,Naval conflict,Extreme,7,12000,CRITICAL,Iran warns ships not to transit strait due to US naval operations,2026-03-02
+2,Middle East,Dubai Missile Threat,Military escalation,High,4,6000,HIGH,Missile alerts causing port evacuation procedures,2026-03-05
+3,Middle East,Kuwait Tanker Attack,Drone attack,Extreme,6,9500,CRITICAL,Fuel tanker hit by explosive drone during transit,2026-03-10
+4,Middle East,Qatar LNG Terminal,Security lockdown,High,3,5000,HIGH,Military patrol zone restricting LNG shipments,2026-03-06
+5,Middle East,Bahrain Naval Base,Military mobilization,Medium,2,3000,MEDIUM,Increased inspections delaying cargo vessels,2026-03-07
+6,Middle East,Oman Gulf Transit,Sea mine risk,Extreme,6,11000,CRITICAL,Naval mine threat forcing tanker reroutes,2026-03-09
+7,Global Oil Market,Persian Gulf Export Route,Oil supply disruption,Extreme,5,9000,CRITICAL,Oil tanker traffic reduced by ~70%,2026-03-08
+8,Shipping Insurance,Middle East Shipping Zone,War risk insurance surge,High,2,4500,HIGH,Insurance premiums spike for Gulf shipping,2026-03-04
+9,Shipping Companies,Gulf Container Trade,Carrier suspension,High,3,5000,HIGH,Major shipping lines suspend bookings to Gulf ports,2026-03-09
+10,Energy Markets,Global Oil Supply,Price surge,Medium,1,2000,MEDIUM,Oil prices spike above $100 due to conflict fears,2026-03-08

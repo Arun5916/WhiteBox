@@ -1,0 +1,57 @@
+event_id,event_type,location,affected_port,status,base_cost_usd,alternative_route_cost_usd,savings_usd,suggested_alternative
+EVT-001,Typhoon,Osaka Region,Port of Kobe,CLOSED,30795,23664,7131,Port of XYZ
+EVT-002,Normal Operations,Los Angeles,Port of LA,OPEN,15860,15700,160,Air Freight Route
+EVT-003,Port Congestion,Singapore,Port of Singapore,DELAYED,69886,56556,13330,Rail Network B
+EVT-004,Labor Strike,Hamburg Region,Port of Hamburg,CLOSED,21265,16700,4565,Air Freight Route
+EVT-005,Customs Delay,New York Area,Port of NY/NJ,DELAYED,52194,44839,7355,Rail Network B
+EVT-006,Normal Operations,Dubai,Jebel Ali Port,OPEN,59131,57079,2052,Rail Network B
+EVT-007,Equipment Failure,Shanghai Region,Port of Shanghai,DELAYED,75263,62887,12376,Secondary Coastal Port
+EVT-008,Canal Blockage,Egypt,Suez Canal,CRITICAL,31023,21845,9178,Rail Network B
+EVT-009,Normal Operations,Rotterdam,Port of Rotterdam,OPEN,56090,61263,-5173,Air Freight Route
+EVT-010,Hurricane,Florida Coast,Port of Miami,CLOSED,82221,63220,19001,Rail Network B
+EVT-011,System Outage,Antwerp Region,Port of Antwerp,DELAYED,79820,68812,11008,Secondary Coastal Port
+EVT-012,Normal Operations,Shenzhen,Port of Shenzhen,OPEN,15769,15894,-125,Secondary Coastal Port
+EVT-013,Piracy Threat,Gulf of Aden,Transit Route,CRITICAL,74735,53611,21124,Air Freight Route
+EVT-014,Port Congestion,Busan,Port of Busan,DELAYED,77955,69753,8202,Alternative Inland Hub
+EVT-015,Normal Operations,Bremerhaven,Port of Bremerhaven,OPEN,79925,81635,-1710,Alternative Inland Hub
+EVT-016,Vessel Grounding,Panama,Panama Canal,CRITICAL,82969,54361,28608,Rail Network B
+EVT-017,Labor Strike,Vancouver,Port of Vancouver,CLOSED,20311,13390,6921,Port of XYZ
+EVT-018,Normal Operations,Tokyo,Port of Tokyo,OPEN,68707,64107,4600,Rail Network B
+EVT-019,Customs Delay,Felixstowe,Port of Felixstowe,DELAYED,43693,32872,10821,Air Freight Route
+EVT-020,Severe Fog,Qingdao,Port of Qingdao,DELAYED,40658,33075,7583,Air Freight Route
+EVT-021,Normal Operations,Klang,Port Klang,OPEN,33431,32728,703,Air Freight Route
+EVT-022,Equipment Failure,Guangzhou,Port of Guangzhou,DELAYED,17747,14091,3656,Air Freight Route
+EVT-023,Normal Operations,Tanjung Pelepas,Port of Tanjung Pelepas,OPEN,74150,66943,7207,Air Freight Route
+EVT-024,Crane Collapse,Kaohsiung,Port of Kaohsiung,CLOSED,80725,51645,29080,Secondary Coastal Port
+EVT-025,Normal Operations,Long Beach,Port of Long Beach,OPEN,50773,52919,-2146,Alternative Inland Hub
+EVT-026,Port Congestion,Ningbo,Port of Ningbo-Zhoushan,DELAYED,82435,71596,10839,Air Freight Route
+EVT-027,Labor Dispute,Sydney,Port Botany,DELAYED,71886,60448,11438,Port of XYZ
+EVT-028,Normal Operations,Colombo,Port of Colombo,OPEN,81803,88777,-6974,Port of XYZ
+EVT-029,Typhoon,Hong Kong,Port of Hong Kong,CLOSED,46551,33992,12559,Port of XYZ
+EVT-030,Normal Operations,Nhava Sheva,Jawaharlal Nehru Port,OPEN,26394,28584,-2190,Port of XYZ
+EVT-031,IT Cyberattack,Seattle,Port of Seattle,CRITICAL,84092,64751,19341,Secondary Coastal Port
+EVT-032,Normal Operations,Savannah,Port of Savannah,OPEN,18890,18699,191,Port of XYZ
+EVT-033,Dredging Issues,Houston,Port of Houston,DELAYED,56606,43264,13342,Air Freight Route
+EVT-034,Normal Operations,Valencia,Port of Valencia,OPEN,25627,24964,663,Rail Network B
+EVT-035,Flash Floods,Durban,Port of Durban,CLOSED,23792,17457,6335,Port of XYZ
+EVT-036,Normal Operations,Santos,Port of Santos,OPEN,58001,59925,-1924,Secondary Coastal Port
+EVT-037,Customs Delay,Manila,Port of Manila,DELAYED,38897,32622,6275,Secondary Coastal Port
+EVT-038,Normal Operations,Ho Chi Minh City,Cat Lai Port,OPEN,83148,79401,3747,Port of XYZ
+EVT-039,Power Outage,Genoa,Port of Genoa,DELAYED,38483,32101,6382,Rail Network B
+EVT-040,Normal Operations,Yokohama,Port of Yokohama,OPEN,63555,62066,1489,Port of XYZ
+EVT-041,Rail Strike,Halifax,Port of Halifax,DELAYED,32159,28806,3353,Secondary Coastal Port
+EVT-042,Normal Operations,Montreal,Port of Montreal,OPEN,50920,54473,-3553,Alternative Inland Hub
+EVT-043,Hazardous Spill,Le Havre,Port of Le Havre,CLOSED,82121,61126,20995,Air Freight Route
+EVT-044,Normal Operations,Algeciras,Port of Algeciras,OPEN,84479,80018,4461,Secondary Coastal Port
+EVT-045,Vessel Collision,Istanbul,Ambarli Port,CRITICAL,34457,22438,12019,Port of XYZ
+EVT-046,Normal Operations,Mundra,Mundra Port,OPEN,81557,74060,7497,Air Freight Route
+EVT-047,Port Congestion,Oakland,Port of Oakland,DELAYED,67995,58244,9751,Port of XYZ
+EVT-048,Normal Operations,Charleston,Port of Charleston,OPEN,55757,51417,4340,Port of XYZ
+EVT-049,Tsunami Warning,Callao,Port of Callao,CLOSED,24692,16984,7708,Alternative Inland Hub
+EVT-050,Normal Operations,Salalah,Port of Salalah,OPEN,60758,57133,3625,Air Freight Route
+event_id,affected_port,status,event_type,suggested_alternative,savings_usd,base_cost_usd
+HZ-001,Port of Jebel Ali,CRITICAL LOCKDOWN,Naval Blockade & GPS Jamming,Port of Salalah (Oman) + Overland Freight,1250000,3400000
+HZ-002,Port of Fujairah,HIGH RISK,War-Risk Insurance Premium Spike (+500%),King Abdullah Port (Red Sea Bypass),850000,2100000
+HZ-003,Port of Basra,HALTED,Vessel Strike / Active Combat Zone,Ceyhan Pipeline (Turkey overland),2200000,5000000
+HZ-004,Port of Bandar Abbas,FROZEN,Military Sanctions & Subsea Mine Threat,Port of Karachi (Wait State),500000,1200000
+HZ-005,Port of Doha,RESTRICTED,LNG Transit Halt / Drone Swarm Threat,Cape of Good Hope Deep Sea Reroute,3100000,8500000
