@@ -10,8 +10,7 @@ import time
 st.set_page_config(page_title="Supply Chain Dashboard", layout="wide", page_icon="📦", initial_sidebar_state="expanded")
 
 # Configure Gemini API
-os.environ["GEMINI_API_KEY"] = "AIzaSyDub_cYgT6yohHSu1Q2SsUZQ8OJf39v-qg"
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 gemini_model = genai.GenerativeModel('gemini-2.5-flash')
 
 API_KEY = "INSERT API KEY HERE"
