@@ -13,7 +13,7 @@ st.set_page_config(page_title="Supply Chain Dashboard", layout="wide", page_icon
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 gemini_model = genai.GenerativeModel('gemini-2.5-flash')
 
-API_KEY = "INSERT API KEY HERE"
+OPENWEATHER_API_KEY = st.secrets["OPENWEATHER_API_KEY"]
 
 # -------------------------------------------------------------
 # GLOBAL CSS STYLE (Cyberpunk Netflix Theme)
