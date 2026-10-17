@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,100:1E3A8A&height=190&section=header&text=ARUNGOPAL%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20DEVELOPMENT&descSize=14&descAlignY=58" alt="Animated profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,100:1E3A8A&height=190&section=header&text=ARUNGOPAL%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20DEVELOPMENT&descSize=14&descAlignY=58" alt="Purple and indigo animated header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Building+Practical+Software+Solutions;Exploring+AI%2FML+and+Agentic+Systems;Engineering+Ideas+Into+Usable+Products" alt="Animated introduction" />
 
@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/Arun5916?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-<a href="https://in.linkedin.com/in/arungopal-r-929154336"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://www.linkedin.com/in/arungopal-r-929154336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:arungopalravisankar@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
 <a href="https://github.com/Arun5916"><img src="https://img.shields.io/badge/GitHub-View%20Profile-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
@@ -101,8 +101,8 @@ My current work includes an AI-powered supply chain management concept that expl
 | Data-Driven Analysis | Applied | Structuring event data and comparing alternatives to support operational decisions. |
 | Supply Chain Intelligence | Project-Level | Modeling shipment disruptions, potential delays, additional costs, and risk levels. |
 | AI API Integration | Applied | Exploring model and API integration in application workflows. |
-| Machine Learning Fundamentals | Developing | Building theoretical and practical foundations through computer science coursework and self-learning. |
-| Responsible Engineering | Developing | Considering input validation, failure handling, privacy, and deployment requirements when designing applications. |
+| Machine Learning Fundamentals | Developing | Building theoretical and practical foundations through coursework and self-learning. |
+| Responsible Engineering | Developing | Considering input validation, failure handling, privacy, and deployment requirements. |
 
 <sub>Proficiency reflects current academic and project-based experience rather than independently benchmarked production performance.</sub>
 
@@ -115,28 +115,28 @@ My current work includes an AI-powered supply chain management concept that expl
 
 ### Overview
 
-An AI-driven supply chain decision-support prototype designed to help evaluate logistics disruptions and compare possible responses. The concept brings together shipment-event data, route conditions, weather context, and AI-assisted analysis to make operational decisions easier to understand.
+An AI-driven supply chain decision-support prototype designed to evaluate logistics disruptions and compare possible responses. The concept brings together shipment-event data, route conditions, weather context, and AI-assisted analysis to make operational decisions easier to understand.
 
-The planned multi-agent workflow separates responsibilities into three stages:
+The multi-agent workflow separates responsibilities into three stages:
 
 1. **Researcher Agent** — Collects available event information and relevant route context.
 2. **Analyst Agent** — Compares possible responses against cost, time, and risk considerations.
 3. **Negotiator Agent** — Selects a proposed action and explains the reasoning behind the decision.
 
-The goal is to demonstrate how clearly separated AI-agent responsibilities can support logistics reasoning without hiding the trade-offs behind a single recommendation.
+The goal is to demonstrate how clearly separated AI-agent responsibilities can support logistics reasoning while making decision trade-offs explicit.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python, Streamlit, CSV-based data, AI model integration, weather API integration |
+| **Stack** | Python, Streamlit, CSV data, AI model integration, weather API integration |
 | **Scale** | Local demonstration prototype using curated event data |
 | **Performance** | Formal latency, throughput, and accuracy benchmarks have not been established |
 | **Security** | API-key management, input validation, and production hardening require deployment-specific verification |
 | **Impact** | Demonstrates an explainable workflow for evaluating shipment disruptions and comparing response options |
-| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
+| **Repository** | [Supply Chain Repository](https://github.com/Arun5916/supplychain) |
 
 **Engineering focus:** Agent orchestration, data processing, external API integration, decision-support workflows, dashboard design, and transparent explanation of trade-offs.
 
-**Future direction:** Add validated live data sources, persistent event history, automated tests, more robust failure handling, and quantitative evaluation of recommended actions.
+**Future direction:** Add validated live data sources, persistent event history, automated tests, robust failure handling, and quantitative evaluation of recommended actions.
 
 </details>
 
@@ -161,9 +161,9 @@ Key study areas include:
 | **Stack** | RISC-V architecture concepts, Ripes simulator |
 | **Scale** | Five-stage processor pipeline analysis |
 | **Performance** | No independently validated numerical benchmark is published |
-| **Security** | Not applicable to the educational simulator study |
+| **Security** | Not applicable to this educational simulator study |
 | **Impact** | Strengthens understanding of processor pipelines, instruction dependencies, and hazard mitigation |
-| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Low-level systems understanding, instruction flow, hardware-software interaction, and analytical problem-solving.
 
@@ -174,7 +174,7 @@ Key study areas include:
 
 ### Overview
 
-An academic application concept built around simplifying common library operations through a graphical user interface.
+An academic application designed around simplifying common library operations through a graphical user interface.
 
 The project focuses on organizing library information and making everyday workflows easier to navigate through structured screens and reusable application logic.
 
@@ -193,7 +193,7 @@ Feature areas include:
 | **Performance** | Formal performance testing has not been recorded |
 | **Security** | Authentication, authorization, and data-protection controls should be evaluated against the final implementation |
 | **Impact** | Organizes common library workflows in one desktop interface |
-| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Object-oriented programming, GUI design, structured data handling, event-driven interactions, and maintainable application organization.
 
@@ -215,7 +215,7 @@ The project provides a practical setting for exploring frontend presentation, pa
 | **Performance** | Formal load-time and performance benchmarks have not been recorded |
 | **Security** | Production security posture has not been independently assessed |
 | **Impact** | Demonstrates a deployed web interface rather than a purely local prototype |
-| **Repository / Demo** | [Open the live Gadget Webstore](https://gadgetwebstore.netlify.app) |
+| **Live Demo** | [Gadget Webstore](https://gadgetwebstore.netlify.app) |
 
 **Engineering focus:** Frontend implementation, interface organization, deployment awareness, and iterative web development.
 
@@ -282,7 +282,7 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Learning%20Catalog-312E81?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" /></a>
 
-<sub>The provider badges link to official learning or certification resources. No additional earned AWS, Oracle, NPTEL, or Cisco credentials are claimed.</sub>
+<sub>The provider badges link to official learning and certification resources. No additional AWS, Oracle, NPTEL, or Cisco credentials are claimed.</sub>
 
 ### Other Documented Credentials & Programs
 
@@ -308,7 +308,7 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <br/>
 
-<sub>Platform links help locate the relevant public profiles; individual coding-platform handles have not been verified.</sub>
+<sub>These links help locate coding profiles; platform-specific usernames have not been verified.</sub>
 
 </div>
 
@@ -319,11 +319,11 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 <div align="center">
 
 <a href="https://github.com/Arun5916">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arun5916&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=818CF8&border_color=312E81&include_all_commits=true" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arun5916&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=818CF8&include_all_commits=true" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/Arun5916">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun5916&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=312E81" alt="Most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun5916&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
 </a>
 
 <a href="https://github.com/Arun5916">
@@ -338,7 +338,13 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Arun5916&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+<a href="https://github.com/Arun5916">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Arun5916&theme=onedark&no-frame=true&no-bg=true&column=4" alt="GitHub profile trophies" />
+</a>
+
+<br/>
+
+<sub>If the image does not load, open the image URL directly to check whether the trophy service is available.</sub>
 
 </div>
 
@@ -348,7 +354,13 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arun5916&bg_color=0D1117&color=A78BFA&line=6366F1&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<a href="https://github.com/Arun5916">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arun5916&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
+
+<br/>
+
+<sub>If the graph is unavailable, check the image URL directly. This widget relies on an external service and may be temporarily unavailable.</sub>
 
 </div>
 
@@ -358,7 +370,15 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Arun5916/Arun5916/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arun5916/Arun5916/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arun5916/Arun5916/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Arun5916/Arun5916/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
+
+<br/>
+
+<sub>The snake SVGs are generated by GitHub Actions. Create and run the snake workflow in the profile repository once to publish the SVG files to the output branch.</sub>
 
 </div>
 
@@ -387,7 +407,7 @@ learning:
 
 building:
   - AI-powered supply chain decision-support prototype
-  - Agent-based Researcher–Analyst–Negotiator workflows
+  - Agent-based Researcher-Analyst-Negotiator workflows
   - Academic software projects
   - Practical web application experiences
 
@@ -417,7 +437,7 @@ I'm open to connecting with engineers, developers, recruiters, and teams working
 
 <a href="mailto:arungopalravisankar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
-<a href="https://in.linkedin.com/in/arungopal-r-929154336"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/arungopal-r-929154336/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <a href="https://github.com/Arun5916"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
@@ -440,6 +460,12 @@ I'm open to connecting with engineers, developers, recruiters, and teams working
 *“Build with curiosity. Engineer with discipline. Improve with every iteration.”*
 
 <br/>
+
+<a href="https://github.com/Arun5916">
+<img src="https://img.shields.io/badge/Designed%20With-Purpose%20%26%20Precision-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Designed with purpose and precision" />
+</a>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,45:5B21B6,100:312E81&height=120&section=footer&animation=fadeIn" alt="Purple and indigo footer banner" />
 
