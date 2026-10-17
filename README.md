@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,100:1E3A8A&height=190&section=header&text=ARUNGOPAL%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20DEVELOPMENT&descSize=14&descAlignY=58" alt="Purple and indigo animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,100:1E3A8A&height=190&section=header&text=ARUNGOPAL%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20DEVELOPMENT&descSize=14&descAlignY=58" alt="Animated profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Building+Practical+Software+Solutions;Exploring+AI%2FML+and+Agentic+Systems;Engineering+Ideas+Into+Usable+Products" alt="Animated introduction" />
 
@@ -14,16 +14,16 @@
 
 <br/><br/>
 
-<a href="https://github.com/Arun5916?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio and repositories" /></a>
+<a href="https://github.com/Arun5916?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 <a href="https://in.linkedin.com/in/arungopal-r-929154336"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:arungopalravisankar@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
 <a href="https://github.com/Arun5916"><img src="https://img.shields.io/badge/GitHub-View%20Profile-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArunGopal-R&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/ArunGopal-R?tab=followers"><img src="https://img.shields.io/github/followers/ArunGopal-R?style=for-the-badge&color=4338CA&label=FOLLOWERS&logo=github" alt="GitHub followers" /></a>
-<a href="https://github.com/ArunGopal-R?tab=repositories"><img src="https://img.shields.io/github/stars/ArunGopal-R?style=for-the-badge&color=5B21B6&label=STARS&logo=github" alt="GitHub stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=Arun5916&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/Arun5916?tab=followers"><img src="https://img.shields.io/github/followers/Arun5916?style=for-the-badge&color=4338CA&label=FOLLOWERS&logo=github" alt="GitHub followers" /></a>
+<a href="https://github.com/Arun5916?tab=repositories"><img src="https://img.shields.io/github/stars/Arun5916?style=for-the-badge&color=5B21B6&label=STARS&logo=github" alt="GitHub stars" /></a>
 
 </div>
 
@@ -104,7 +104,7 @@ My current work includes an AI-powered supply chain management concept that expl
 | Machine Learning Fundamentals | Developing | Building theoretical and practical foundations through computer science coursework and self-learning. |
 | Responsible Engineering | Developing | Considering input validation, failure handling, privacy, and deployment requirements when designing applications. |
 
-<sub>Proficiency describes current academic and project-based exposure, not a claim of production-scale deployment or formally benchmarked model performance.</sub>
+<sub>Proficiency reflects current academic and project-based experience rather than independently benchmarked production performance.</sub>
 
 ---
 
@@ -132,7 +132,7 @@ The goal is to demonstrate how clearly separated AI-agent responsibilities can s
 | **Performance** | Formal latency, throughput, and accuracy benchmarks have not been established |
 | **Security** | API-key management, input validation, and production hardening require deployment-specific verification |
 | **Impact** | Demonstrates an explainable workflow for evaluating shipment disruptions and comparing response options |
-| **Repository** | [View available repositories](https://github.com/ArunGopal-R?tab=repositories) |
+| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Agent orchestration, data processing, external API integration, decision-support workflows, dashboard design, and transparent explanation of trade-offs.
 
@@ -163,7 +163,7 @@ Key study areas include:
 | **Performance** | No independently validated numerical benchmark is published |
 | **Security** | Not applicable to the educational simulator study |
 | **Impact** | Strengthens understanding of processor pipelines, instruction dependencies, and hazard mitigation |
-| **Repository** | [View available repositories](https://github.com/ArunGopal-R?tab=repositories) |
+| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Low-level systems understanding, instruction flow, hardware-software interaction, and analytical problem-solving.
 
@@ -178,7 +178,7 @@ An academic application concept built around simplifying common library operatio
 
 The project focuses on organizing library information and making everyday workflows easier to navigate through structured screens and reusable application logic.
 
-Planned and demonstrated feature areas include:
+Feature areas include:
 
 - Book and member information management.
 - Transaction tracking for library activities.
@@ -193,7 +193,7 @@ Planned and demonstrated feature areas include:
 | **Performance** | Formal performance testing has not been recorded |
 | **Security** | Authentication, authorization, and data-protection controls should be evaluated against the final implementation |
 | **Impact** | Organizes common library workflows in one desktop interface |
-| **Repository** | [View available repositories](https://github.com/ArunGopal-R?tab=repositories) |
+| **Repository** | [View my GitHub repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Object-oriented programming, GUI design, structured data handling, event-driven interactions, and maintainable application organization.
 
@@ -225,7 +225,7 @@ The project provides a practical setting for exploring frontend presentation, pa
 
 ## 06 · Experience
 
-### Cybersecurity Intern · Offenso Hackers Academy
+### Cybersecurity Intern · Offenso
 
 **June 2026**
 
@@ -282,7 +282,7 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Learning%20Catalog-312E81?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" /></a>
 
-<sub>The provider badges above link to official learning or certification resources; no earned AWS, Oracle, NPTEL, or Cisco credential is claimed here.</sub>
+<sub>The provider badges link to official learning or certification resources. No additional earned AWS, Oracle, NPTEL, or Cisco credentials are claimed.</sub>
 
 ### Other Documented Credentials & Programs
 
@@ -308,7 +308,7 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 
 <br/>
 
-<sub>Platform links are provided to help locate the relevant public profiles; individual coding-platform handles have not been verified.</sub>
+<sub>Platform links help locate the relevant public profiles; individual coding-platform handles have not been verified.</sub>
 
 </div>
 
@@ -369,6 +369,7 @@ Gained practical exposure to cybersecurity fundamentals, vulnerability assessmen
 ```yaml
 profile:
   name: "Arungopal R"
+  github: "Arun5916"
   role: "Computer Science Engineering Student"
   direction:
     - Software Engineering
@@ -404,3 +405,42 @@ open_to:
   - Cybersecurity Learning Opportunities
   - Open-Source Collaboration
   - Hackathons and Engineering Communities
+```
+
+---
+
+## 15 · Connect
+
+<div align="center">
+
+I'm open to connecting with engineers, developers, recruiters, and teams working on practical software, AI-powered applications, and engineering projects.
+
+<a href="mailto:arungopalravisankar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+
+<a href="https://in.linkedin.com/in/arungopal-r-929154336"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<a href="https://github.com/Arun5916"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+<a href="https://github.com/Arun5916?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Code-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio" /></a>
+
+<a href="https://gadgetwebstore.netlify.app"><img src="https://img.shields.io/badge/Live%20Project-Gadget%20Webstore-5B21B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Gadget Webstore live demo" /></a>
+
+<br/><br/>
+
+<sub>Palakkad, Kerala, India · Computer Science Engineering · Software Engineering · AI/ML</sub>
+
+</div>
+
+---
+
+## 16 · Footer
+
+<div align="center">
+
+*“Build with curiosity. Engineer with discipline. Improve with every iteration.”*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,45:5B21B6,100:312E81&height=120&section=footer&animation=fadeIn" alt="Purple and indigo footer banner" />
+
+</div>
