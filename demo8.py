@@ -217,7 +217,7 @@ def get_weather(port_name):
     if not port_name:
         return "Not available"
     try:
-        url = f"https://api.openweathermap.org/data/2.5/weather?q={port_name}&appid={API_KEY}&units=metric"
+       url = f"https://api.openweathermap.org/data/2.5/weather?q={port_name}&appid={OPENWEATHER_API_KEY}&units=metric"
         response = requests.get(url)
         response.raise_for_status()  
         data = response.json()
